@@ -98,6 +98,10 @@ p{
     margin: 10px;
 }
 
+
+
+
+
 .profile{
     width: 40%;
     float: left;
@@ -109,3 +113,51 @@ p{
     width: 70%;
 }
 
+.link{
+    background-image: linear-gradient(180deg,lightblue,red);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+   
+}
+section{
+    height: 600px;
+}
+.span{
+    color: #f46060;
+}
+.one-third{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    height: 80%;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.one-third img{
+    width: 100%;
+}
+.third-area{
+    height: auto;
+}
+
+.work{
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    background-position: center;
+    color: white;
+    margin: 5% 20%;
+    padding: 4%;
+}
+.work h1{
+    display: inline;
+    font-size: 40px;
+}
+.work a{
+    float: right;
+    padding-top: 2%;
+}
