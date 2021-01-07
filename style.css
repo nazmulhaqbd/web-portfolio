@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.p {
+    color: dimgray;
+}   
+
+section{
+    height: 500px;
+    padding: 50px;
+}
+
+.menu{
+    height: 100px;
+    width: 35%;
+    padding: 50px;
+    float: right;
+}
+ul {
+    list-style-type: none;
+    padding: 1;
+    margin: 1;
+    overflow: hidden;
+  }
+  
+li {
+    float: left;
+  }
+  
+.menu ul li a{
+    text-decoration: none;
+    text-align: right;
+    padding: 10px 12px; 
+  }
+  
+.h1-class{
+    font-size: 40px;
+    padding-top: 100px;
+
+}
+p{
+    color: dimgrey;
+}
+.h1-class2{
+    color: tomato;
+    font-size: 40px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 50%;
+}
+.half-width h2{
+    color: #363958;
+}
+.button{
+    background-image: linear-gradient(180deg,lightblue,red);
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+   
+}
+.section{
+    height: 600px;
+}
+
+
+
+  h2{
+    font-size: 
+    50px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.profile p{
+   padding: 20px 0px;
+}
+.front-color{
+    color: tomato;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, rgb(255, 0, 0), rgba(255, 187, 0, 0.938));
+    border-radius: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.profile-section{
+    margin: 10px;
+}
+
+.profile{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+
+.profile img{
+    width: 70%;
+}
+
